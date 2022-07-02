@@ -41,3 +41,10 @@ function App() {
 }
 
 export default App;
+// https://discord.com/api/webhooks/992774782091264090/KtcQyL9QaOIqbdeJqbVhQSpqNq3a_g9qKCJ7znD4rnDlBeCIvpgXQuqlH1TWqZEP5uqK
+
+// https://discord.com/api/v9/channels/992774733038882926/messages
+
+// 992774733038882926
+
+// "OTkyNzcxODM3NjQzNzE4Njc3.GSYkGO.LtNwDmN5Q5fuF8eIU1KeMkUcVSsofljyQApKjQ"
